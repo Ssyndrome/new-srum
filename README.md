@@ -1,4 +1,9 @@
 # scrum
+## **170810**
+- [题目](https://school.thoughtworks.cn/bbs/topic/592/%E4%BD%93%E8%83%BD%E5%A4%A7%E6%AF%94%E6%8B%BC%E9%A2%98%E7%9B%AE-8-10-turs-round3)：给出2*n + 1 个的数字(数组)，除其中一个数字之外其他每个数字均出现两次，找到这个数字。
+- 测试结果
+```[1,1,3,2,3]中不同的数为2```
+- 其中的问题：弄混了slice与splice，浪费了几分钟时间。
 ## **170809**
 - [题目](https://school.thoughtworks.cn/bbs/topic/582/%E4%BD%93%E8%83%BD%E5%A4%A7%E6%AF%94%E6%8B%BC%E9%A2%98%E7%9B%AE-8-9-wed-round2)：查找斐波纳契数列中第 N 个数。
 - 测试结果
