@@ -2,7 +2,7 @@ function main(k) {
     let arr = [3,5,7];
     let res = [];
     let i = 0;
-    while(arr[k] == undefined){
+    while(res[k] == undefined){
         arr.push(arr[i]*3);arr.push(arr[i]*5);arr.push(arr[i]*7);
         arr.push(arr[i+1]*3);arr.push(arr[i+1]*5);arr.push(arr[i+1]*7);
         arr.push(arr[i+2]*3);arr.push(arr[i+2]*5);arr.push(arr[i+2]*7);
