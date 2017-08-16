@@ -1,4 +1,8 @@
 # scrum
+## 170816
+- [题目](https://school.thoughtworks.cn/bbs/topic/625/%E4%BD%93%E8%83%BD%E5%A4%A7%E6%AF%94%E6%8B%BC%E9%A2%98%E7%9B%AE-8-16-wed-round2)：找出数组 arr 中重复出现过的元素。
+- 测试结果：```数组[1,3,3,3,3]中重复的数字有3。```
+- 其中的问题：变量设置的有点多。
 ## 170815
 - [题目](https://school.thoughtworks.cn/bbs/topic/618/%E4%BD%93%E8%83%BD%E5%A4%A7%E6%AF%94%E6%8B%BC%E9%A2%98%E7%9B%AE-8-15-tues-round1):统计数组 arr 中值等于 item 的元素出现的次数。
 - 测试结果：```数组1,2,3,1中1出现的次数是2次。
