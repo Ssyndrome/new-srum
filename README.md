@@ -1,4 +1,8 @@
 # scrum
+## 170817
+- [题目](https://school.thoughtworks.cn/bbs/topic/632/%E4%BD%93%E8%83%BD%E5%A4%A7%E6%AF%94%E6%8B%BC%E9%A2%98%E7%9B%AE-8-17-turs-round3)：为数组 arr 中的每个元素求二次方。不要直接修改数组 arr，结果返回新的数组。
+- 测试结果：```数组[1,2,4,5]的二次方数组是[1,4,16,25]。```
+- 其中的问题：无。
 ## 170816
 - [题目](https://school.thoughtworks.cn/bbs/topic/625/%E4%BD%93%E8%83%BD%E5%A4%A7%E6%AF%94%E6%8B%BC%E9%A2%98%E7%9B%AE-8-16-wed-round2)：找出数组 arr 中重复出现过的元素。
 - 测试结果：```数组[1,3,3,3,3]中重复的数字有3。```
