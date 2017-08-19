@@ -1,4 +1,9 @@
 # scrum
+## 170819
+- [题目]()：数组去重。
+- 测试结果：```console.log(main([1,1,1,2,3,3]));
+[1,2,3]```
+- 其中的问题：无。
 ## 170818
 - [题目](https://school.thoughtworks.cn/bbs/topic/634/%E4%BD%93%E8%83%BD%E5%A4%A7%E6%AF%94%E6%8B%BC%E9%A2%98%E7%9B%AE-8-18-fri-round4)：在数组 arr 中，查找值与 item 相等的元素出现的所有位置。
 - 测试结果：```console.log(main([1,2,3,1],1));
