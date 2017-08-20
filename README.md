@@ -1,4 +1,9 @@
 # scrum
+## 170820
+- [题目](https://school.thoughtworks.cn/bbs/topic/638/%E4%BD%93%E8%83%BD%E5%A4%A7%E6%AF%94%E6%8B%BC%E9%A2%98%E7%9B%AE-8-20-sun-round6)：判断一个字符串中出现次数最多的字符，并统计次数
+- 测试结果：```console.log(main('aabbccddd'));
+[ 'b:3', 'd:3' ]```
+- 其中的问题：处理相同的数字花了十分钟。其他的写法还是傻瓜式
 ## 170819
 - [题目]()：数组去重。
 - 测试结果：```console.log(main([1,1,1,2,3,3]));
