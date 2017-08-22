@@ -1,4 +1,9 @@
 # scrum
+## 170822
+- [题目](https://school.thoughtworks.cn/bbs/topic/642/%E4%BD%93%E8%83%BD%E5%A4%A7%E6%AF%94%E6%8B%BC%E9%A2%98%E7%9B%AE-8-22-tues-round1)：计算两个数组的交数组。
+- 测试结果：```console.log(main([1,2,2,2,3],[2,3,3,3,4]))
+Set { 2, 3 }```
+- 其中的问题：很早之前做过的题目，这次想换个方法做做，结果一试就试了好久，还是换回了原来的方法。用对象做的，感觉挺简洁的。但是思维方式也没法突破了。 
 ## 170820
 - [题目](https://school.thoughtworks.cn/bbs/topic/638/%E4%BD%93%E8%83%BD%E5%A4%A7%E6%AF%94%E6%8B%BC%E9%A2%98%E7%9B%AE-8-20-sun-round6)：判断一个字符串中出现次数最多的字符，并统计次数
 - 测试结果：```console.log(main('aabbccddd'));
