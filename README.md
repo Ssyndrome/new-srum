@@ -1,4 +1,9 @@
 # scrum
+## 170823
+- [题目](https://school.thoughtworks.cn/bbs/topic/644/%E4%BD%93%E8%83%BD%E5%A4%A7%E6%AF%94%E6%8B%BC%E9%A2%98%E7%9B%AE-8-23-wed-round2)：给定一个数组，该数组中的每个元素要么是个数组，要么是整数。将其变成一个只包含整数的简单数组。
+- 测试结果：```console.log(trans([1, [2, [3, [4]]]]));
+[1, 2, 3, 4]```
+- 其中的问题：可以看出问题是将多维数组转变为一维，思路很清晰，变为字符串 => 用逗号分隔`split(',')` => 每个字符串变数字`Number()`
 ## 170822
 - [题目](https://school.thoughtworks.cn/bbs/topic/642/%E4%BD%93%E8%83%BD%E5%A4%A7%E6%AF%94%E6%8B%BC%E9%A2%98%E7%9B%AE-8-22-tues-round1)：计算两个数组的交数组。
 - 测试结果：```console.log(main([1,2,2,2,3],[2,3,3,3,4]))

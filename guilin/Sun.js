@@ -15,4 +15,12 @@ function main(arr) {
        }
    }
 }
-console.log(main([1,2,3,4,5,4,3,2,1]));
+
+function main2(arr) {
+    let res = arr[0];
+    for(let i = 1;i < arr.length;i++){
+        res = res^(arr[i]);
+    }
+    return res;
+}
+console.log(1^3^1);

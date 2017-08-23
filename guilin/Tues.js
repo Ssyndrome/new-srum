@@ -3,8 +3,8 @@ function trans(str){
     let res = [];
     let ile = 0;
     arr.map((item) => {
-        ile = item.length;
-       res.push(item.charAt(0).toUpperCase().concat(item.slice(1,ile).toLowerCase()));
+        ile = val.length;
+       res.push(val.charAt(0).toUpperCase().concat(val.slice(1,ile).toLowerCase()));
     });
     return `将原字符串"${str}"转化为"${res.join(' ')}"。`;
 }

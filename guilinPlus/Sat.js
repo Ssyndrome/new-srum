@@ -52,7 +52,7 @@ function findLostNum(str) {
     [...res].forEach(value=>{
         message+=value[0].toString();
     });
-
+    console.log(res);
     return message;//[...res].reduce((cur, val)=>{cur += val[0].toString();}, '');
 }
 

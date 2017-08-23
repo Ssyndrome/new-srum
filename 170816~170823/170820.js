@@ -29,4 +29,10 @@ function main(str) {
 
 }
 
-console.log(main('aabbccddd'));
+let a = new Map();
+let b = 'aaabbddssdf';
+b.split('').forEach(item => {
+    a.set(item, a.has(item)?a.get(item)+1:1);
+});
+
+console.log(Array.from(a));
