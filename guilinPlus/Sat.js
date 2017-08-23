@@ -48,12 +48,8 @@ function findLostNum(str) {
         }
     });
 
-    let message = '';
-    [...res].forEach(value=>{
-        message+=value[0].toString();
-    });
-    console.log(res);
-    return message;//[...res].reduce((cur, val)=>{cur += val[0].toString();}, '');
+
+    return [...res].reduce((cur, val)=>cur += val[0].toString(), '');
 }
 
 console.log(findLostNum("19201234567891011121314151618"));
