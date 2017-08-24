@@ -1,4 +1,9 @@
 # scrum
+## 170824
+- [题目]()：向左拼接字符串，在指定长度内
+- 测试结果：```console.log(left_pad('uknow', 11, 'hello'));
+ohellouknow```
+- 其中的问题：无
 ## 170823
 - [题目](https://school.thoughtworks.cn/bbs/topic/644/%E4%BD%93%E8%83%BD%E5%A4%A7%E6%AF%94%E6%8B%BC%E9%A2%98%E7%9B%AE-8-23-wed-round2)：给定一个数组，该数组中的每个元素要么是个数组，要么是整数。将其变成一个只包含整数的简单数组。
 - 测试结果：```console.log(trans([1, [2, [3, [4]]]]));
