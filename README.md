@@ -1,4 +1,9 @@
 # scrum
+## 170825
+- [题目](https://school.thoughtworks.cn/bbs/topic/652/%E4%BD%93%E8%83%BD%E5%A4%A7%E6%AF%94%E6%8B%BC%E9%A2%98%E7%9B%AE-8-25-fri-round4)：将数组中所包含的某个元素找出，并放在数组后面。例如，给出 nums = [0, 1, 0, 3, 12], target = 0; 调用函数之后, 得到nums = [1, 3, 12, 0, 0]。
+- 测试结果：```console.log(main(0,1,0,3,2));
+[1,3,2,0,0]```
+ - 其中的问题：用到了扩展运算符结合两个数组
 ## 170824
 - [题目]()：向左拼接字符串，在指定长度内
 - 测试结果：```console.log(left_pad('uknow', 11, 'hello'));
