@@ -9,7 +9,7 @@
          26-> ‘Z’
 - 测试结果：```console.log(main(15));  
 K、AA```
-- 其中的问题：无
+- 其中的问题：无。晚上才回到家，花了二十分钟修改代码
 ## 170826
 - [题目](https://school.thoughtworks.cn/bbs/topic/656/%E4%BD%93%E8%83%BD%E5%A4%A7%E6%AF%94%E6%8B%BC%E9%A2%98%E7%9B%AE-8-26-fri-round4)：给你一个整数n. 从 1 到 n 按照下面的规则打印每个数：                 如果这个数被3整除，打印fizz.                 如果这个数被5整除，打印buzz.          如果这个数能同时被3和5整除，打印fizz buzz.
 - 测试结果：```console.log(main(15));
